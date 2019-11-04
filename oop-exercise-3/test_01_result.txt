@@ -1,0 +1,66 @@
+rookstar@Refrigerator:~/Git/oop-exercise-3$ ./oop-exercise-3 
+1. Add shape
+2. Print all shapes
+3. Print total area of all shapes
+4. Print this menu
+5. Delete shape
+6. Delete all shapes
+0. Exit
+---------------
+Menu choice: 1
+1. Triangle
+2. Rectangle
+3. Square
+Any other number returns to menu
+Pick the type of shape: 1
+Input point coordinates
+A: 4 9
+B: -2 -4
+C: -1 -2
+---------------
+Menu choice: 1 
+1. Triangle
+2. Rectangle
+3. Square
+Any other number returns to menu
+Pick the type of shape: 2
+Input point coordinates clockwise or counter clockwise
+A: 0 -2 
+B: 5 3
+C: -7 15
+D: -12 10
+---------------
+Menu choice: 1  
+1. Triangle
+2. Rectangle
+3. Square
+Any other number returns to menu
+Pick the type of shape: 3
+Input point coordinates clockwise or counter clockwise
+A: -6 10
+B: -5 6
+C: -9 5
+D: -10 9
+---------------
+Menu choice: 2
+1. Triangle: (4 , 9); (-2 , -4); (-1 , -2); Centre = (0 , 1); Area = 0.5
+2. Rectangle: (0 , -2); (5 , 3); (-7 , 15); (-12 , 10); Centre = (-3 , 6); Area = 120
+3. Square: (-6 , 10); (-5 , 6); (-9 , 5); (-10 , 9); Centre = (-7 , 7); Area = 17
+---------------
+Menu choice: 3
+The total area of all shapes is 137.5
+---------------
+Menu choice: 5
+Number of the shape: 2
+---------------
+Menu choice: 2
+1. Triangle: (4 , 9); (-2 , -4); (-1 , -2); Centre = (0 , 1); Area = 0.5
+2. Square: (-6 , 10); (-5 , 6); (-9 , 5); (-10 , 9); Centre = (-7 , 7); Area = 17
+---------------
+Menu choice: 6
+Vector is now empty
+---------------
+Menu choice: 2
+The list is currently empty
+---------------
+Menu choice: 

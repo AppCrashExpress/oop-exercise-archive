@@ -1,0 +1,62 @@
+rookstar@Refrigerator:~/Git/oop-exercise-3$ ./oop-exercise-3 
+1. Add shape
+2. Print all shapes
+3. Print total area of all shapes
+4. Print this menu
+5. Delete shape
+6. Delete all shapes
+0. Exit
+---------------
+Menu choice: 1
+1. Triangle
+2. Rectangle
+3. Square
+Any other number returns to menu
+Pick the type of shape: 3
+Input point coordinates clockwise or counter clockwise
+A: -5 1
+B: -1 5
+C: 5 -1
+D: 1 -5
+Coordinates do not create square
+---------------
+Menu choice: 1 
+1. Triangle
+2. Rectangle
+3. Square
+Any other number returns to menu
+Pick the type of shape: 2
+Input point coordinates clockwise or counter clockwise
+A: -5 1
+B: -1 5
+C: 5 -1
+D: 1 -5
+---------------
+Menu choice: 1
+1. Triangle
+2. Rectangle
+3. Square
+Any other number returns to menu
+Pick the type of shape: 1
+Input point coordinates
+A: 0 0
+B: 0 0
+C: 3 5
+Coordinates do not create triangle
+---------------
+Menu choice: 1 
+1. Triangle
+2. Rectangle
+3. Square
+Any other number returns to menu
+Pick the type of shape: 1
+Input point coordinates
+A: 0 0
+B: 2 9
+C: 2 9
+Coordinates do not create triangle
+---------------
+Menu choice: 2
+1. Rectangle: (-5 , 1); (-1 , 5); (5 , -1); (1 , -5); Centre = (0 , 0); Area = 48
+---------------
+Menu choice:
